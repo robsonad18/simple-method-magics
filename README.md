@@ -1,0 +1,1 @@
+# simple-method-magics
